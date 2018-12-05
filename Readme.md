@@ -11,6 +11,9 @@
 ### Step 4 : Get Information of Package
 
 ```php
+$spider = new GooglePlaySpider();
+$package = $spider->getPackageByPackageName("ir.yana.esaj");
+
 $package->getTitle();
 //return : (esaj) ایساج
 
