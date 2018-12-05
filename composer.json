@@ -2,7 +2,7 @@
     "name": "ghalambaz/googleplay-spider",
     "type": "application",
     "description": "Another GooglePlay Website Scraper based on goutte",
-    "keywords": ["scraper,spider,crawler,googleplay,google,play,store"],
+    "keywords": ["scraper","spider","crawler","googleplay","google","play","store"],
     "homepage": "https://yanagroup.ir",
     "license": "MIT",
     "authors": [
